@@ -1,0 +1,2 @@
+1. Meitei Mayek handwritten dataset: compilation, segmentation, and character recognition (Inunganbi et al, 2021)
+2. 
