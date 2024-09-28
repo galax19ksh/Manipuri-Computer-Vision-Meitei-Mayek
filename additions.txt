@@ -1,2 +1,2 @@
 1. Meitei Mayek handwritten dataset: compilation, segmentation, and character recognition (Inunganbi et al, 2021)
-2. 
+2. On developing complete character set Meitei Mayek handwritten character database (Hijam at al, 2022)
