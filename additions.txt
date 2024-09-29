@@ -1,2 +1,3 @@
 1. Meitei Mayek handwritten dataset: compilation, segmentation, and character recognition (Inunganbi et al, 2021)
 2. On developing complete character set Meitei Mayek handwritten character database (Hijam at al, 2022)
+Handwritten Meitei Mayek recognition using three-channel convolution neural network of gradients and gray (Inunganbi et al, 2021)
