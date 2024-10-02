@@ -3,3 +3,4 @@
 3. Handwritten Meitei Mayek recognition using three-channel convolution neural network of gradients and gray (Inunganbi et al, 2021)
 4. Simulation and Modeling of Handwritten Meitei Mayek Digits using Neural Network Approach (Laishram, 2012)
 5. Recognition Of Handwritten Meitei Mayek Script Based On Texture Feature (Inunganbi, 2018)
+6. A neural network based handwritten Meitei Mayek alphabet optical character recognition system (Laishram, 2014)
