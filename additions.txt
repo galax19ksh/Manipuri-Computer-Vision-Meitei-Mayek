@@ -5,3 +5,4 @@
 5. Recognition Of Handwritten Meitei Mayek Script Based On Texture Feature (Inunganbi, 2018)
 6. A neural network based handwritten Meitei Mayek alphabet optical character recognition system (Laishram, 2014)
 7. Local texture descriptors and projection histogram based handwritten Meitei Mayek character recognition (Inunganbi, 2019)
+
